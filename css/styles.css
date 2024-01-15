@@ -99,7 +99,6 @@ main {
     display: flex;
     gap: 40px;
     margin-right: 332px;
-    padding: 24px 0;
 }
 
 .navigation .link {
@@ -108,6 +107,8 @@ main {
     font-weight: 500;
     line-height: 1.5;
     letter-spacing: 0.32px;
+
+    padding: 24px 0;
 }
 
 .navigation .link:not(.logo):hover,
